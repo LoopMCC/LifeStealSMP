@@ -4,11 +4,11 @@ HealthGainedOnKill: 2.0
 LoseLifeIfNotKilledByPlayer: true
 HeartRecipe:
   Slot0: DIAMOND_BLOCK
-  Slot1: OBSIDIAN
+  Slot1: NETHERITE_BLOCK
   Slot2: DIAMOND_BLOCK
   Slot3: GOLD_BLOCK
-  Slot4: NETHERITE_INGOT
+  Slot4: ELYTRA
   Slot5: GOLD_BLOCK
   Slot6: DIAMOND_BLOCK
-  Slot7: OBSIDIAN
+  Slot7: NETHERITE_BLOCK
   Slot8: DIAMOND_BLOCK
